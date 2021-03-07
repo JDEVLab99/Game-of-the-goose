@@ -1,0 +1,49 @@
+C:\Users\jonat\AppData\Local\Temporary Projects\Gioco_oca\bin\Debug\Gioco_oca.exe
+C:\Users\jonat\AppData\Local\Temporary Projects\Gioco_oca\bin\Debug\Gioco_oca.pdb
+C:\Users\jonat\AppData\Local\Temporary Projects\Gioco_oca\obj\x86\Debug\Gioco_oca.Form1.resources
+C:\Users\jonat\AppData\Local\Temporary Projects\Gioco_oca\obj\x86\Debug\Gioco_oca.Properties.Resources.resources
+C:\Users\jonat\AppData\Local\Temporary Projects\Gioco_oca\obj\x86\Debug\Gioco_oca.csproj.GenerateResource.Cache
+C:\Users\jonat\AppData\Local\Temporary Projects\Gioco_oca\obj\x86\Debug\Gioco_oca.exe
+C:\Users\jonat\AppData\Local\Temporary Projects\Gioco_oca\obj\x86\Debug\Gioco_oca.pdb
+D:\Desktop\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.exe
+D:\Desktop\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.pdb
+D:\Desktop\Gioco_oca\Gioco_oca\bin\Debug\Gioco_oca.exe
+D:\Desktop\Gioco_oca\Gioco_oca\bin\Debug\Gioco_oca.pdb
+D:\Desktop\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.Form1.resources
+D:\Desktop\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.Properties.Resources.resources
+D:\Desktop\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.csproj.GenerateResource.Cache
+D:\Desktop\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.csprojResolveAssemblyReference.cache
+E:\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.exe
+E:\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.pdb
+E:\Gioco_oca\Gioco_oca\bin\Debug\Gioco_oca.exe
+E:\Gioco_oca\Gioco_oca\bin\Debug\Gioco_oca.pdb
+E:\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.csprojResolveAssemblyReference.cache
+E:\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.Form1.resources
+E:\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.Properties.Resources.resources
+E:\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.csproj.GenerateResource.Cache
+C:\Users\pinna.13104\Desktop\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.exe
+C:\Users\pinna.13104\Desktop\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.pdb
+C:\Users\pinna.13104\Desktop\Gioco_oca\Gioco_oca\bin\Debug\Gioco_oca.exe
+C:\Users\pinna.13104\Desktop\Gioco_oca\Gioco_oca\bin\Debug\Gioco_oca.pdb
+C:\Users\pinna.13104\Desktop\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.csprojResolveAssemblyReference.cache
+C:\Users\pinna.13104\Desktop\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.Form1.resources
+C:\Users\pinna.13104\Desktop\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.Properties.Resources.resources
+C:\Users\pinna.13104\Desktop\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.csproj.GenerateResource.Cache
+H:\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.exe
+H:\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.pdb
+H:\Gioco_oca\Gioco_oca\bin\Debug\Gioco_oca.exe
+H:\Gioco_oca\Gioco_oca\bin\Debug\Gioco_oca.pdb
+H:\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.csprojResolveAssemblyReference.cache
+H:\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.Form1.resources
+H:\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.Properties.Resources.resources
+H:\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.csproj.GenerateResource.Cache
+H:\visual_c#\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.exe
+H:\visual_c#\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.pdb
+C:\Users\jonat\Documents\Scuola\visual_c#\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.exe
+C:\Users\jonat\Documents\Scuola\visual_c#\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.pdb
+C:\Users\jonat\Documents\Scuola\visual_c#\Gioco_oca\Gioco_oca\bin\Debug\Gioco_oca.exe
+C:\Users\jonat\Documents\Scuola\visual_c#\Gioco_oca\Gioco_oca\bin\Debug\Gioco_oca.pdb
+C:\Users\jonat\Documents\Scuola\visual_c#\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.csprojResolveAssemblyReference.cache
+C:\Users\jonat\Documents\Scuola\visual_c#\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.Form1.resources
+C:\Users\jonat\Documents\Scuola\visual_c#\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.Properties.Resources.resources
+C:\Users\jonat\Documents\Scuola\visual_c#\Gioco_oca\Gioco_oca\obj\x86\Debug\Gioco_oca.csproj.GenerateResource.Cache
